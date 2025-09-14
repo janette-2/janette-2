@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Welcome to my profile :)
 
-just learning in here,
+just learning in here, \
 it's a pleasure!
